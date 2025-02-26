@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mariadb = "*"
+python-dotenv = "*"
+structlog = "*"
+mysql-connector = "*"
+orjson = "*"
+loguru = "*"
+mysqlclient = "*"
+dateparser = "*"
+pytest = "*"
+psycopg2 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
