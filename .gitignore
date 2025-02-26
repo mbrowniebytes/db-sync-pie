@@ -1,0 +1,13 @@
+
+logs/*
+
+tests/logs/*
+tests/sql/*.db
+
+*.json
+*.env
+
+*.idea
+
+__pycache__
+.pytest_cache
